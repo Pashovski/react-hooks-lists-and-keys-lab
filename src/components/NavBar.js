@@ -6,9 +6,9 @@ function NavBar() {
 
   return (
   <nav>
-      <a key="id" href="#home">home</a>
-      <a href="about">about</a>
-      <a href="projects">projects</a>
+      <a key="home" href="#home">home</a>
+      <a key="about" href="#about">about</a>
+      <a key="projects" href="#projects">projects</a>
   </nav>
   )
 }
